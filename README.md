@@ -1,9 +1,6 @@
 # Mental Models For Tech World
 
-Testing Git Setup...
-- [x] Git Setup Done
+This repo is for my custom mental models to understand the Tech World Better and get Practical Implementable Insights.
 
-Testing Git on Obsidian Setup...
-- [x] Git + Obsidian Setup Done
 
 
