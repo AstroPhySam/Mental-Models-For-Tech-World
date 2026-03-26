@@ -4,6 +4,8 @@
 
 - [x] Uploaded the Brainstormed Mental Models made with Claude in the General Tech Width & Depth Folder
 
+---
+
 ### 2025-03-25, Wednesday
 
 Initial Setup for Repo
