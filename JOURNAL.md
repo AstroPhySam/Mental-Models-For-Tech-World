@@ -3,7 +3,7 @@
 ### 2025-03-29, Sunday
 
 - [x] Setup a basic Typsecript Project with Testing in "DSA" directory for practice
-- [ ] Fixed Github Identity Issues
+- [x] Fixed Github Identity Issues
 
 ---
 
