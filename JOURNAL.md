@@ -1,5 +1,11 @@
 # Progress Journal
 
+### 2025-03-30, Monday
+
+- [ ] Fixing Author Issues on Obsidian...
+
+---
+
 ### 2025-03-29, Sunday
 
 - [x] Setup a basic Typescript Project with Testing in "DSA" directory for practice
