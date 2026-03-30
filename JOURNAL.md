@@ -2,7 +2,7 @@
 
 ### 2025-03-29, Sunday
 
-- [x] Setup a basic Typsecript Project with Testing in "DSA" directory for practice
+- [x] Setup a basic Typescript Project with Testing in "DSA" directory for practice
 - [x] Fixed Github Identity Issues
 
 ---
