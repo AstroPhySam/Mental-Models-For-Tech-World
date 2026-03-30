@@ -2,7 +2,7 @@
 
 ### 2025-03-30, Monday
 
-- [ ] Fixing Author Issues on Obsidian...
+- [x] Fixed Author Issues on Obsidian
 
 ---
 
